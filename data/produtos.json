@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "nome":"Camiseta",
+        "descricao": "Camiseta masculina",
+        "preco": 38.9,
+        "quantidade":10,
+        "img":""
+    },
+    {
+        "id":2,
+        "nome":"Short",
+        "descricao": "Short feminino",
+        "preco": 29.9,
+        "quantidade":15,
+        "img":""
+    },
+
+    {
+        "id":3,
+        "nome":"Top",
+        "descricao": "Top esportivo feminino",
+        "preco": 19.9,
+        "quantidade":5,
+        "img":"https://imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw5c53f042/IF4748_031_24.jpg?imwidth=457&impolicy=pctp"
+    },
+
+    {
+        "id":4,
+        "nome":"Bermuda",
+        "descricao": "Bermuda esportivo masculina",
+        "preco": 30.5,
+        "quantidade":20,
+        "img":""
+    },
+
+    {
+        "id":5,
+        "nome":"Regata",
+        "descricao": "Camiseta regata masculina",
+        "preco": 10.5,
+        "quantidade":3,
+        "img":"https://www.sjonsmodas.com/wp-content/uploads/2011/09/camiseta-regata-tank-moda-masculina-1000x1000-1.jpg"
+    },
+
+    {
+        "id":6,
+        "nome":"Regata",
+        "descricao": "Camiseta regata feminina",
+        "preco": 10.5,
+        "quantidade":2,
+        "img":"https://cdn.iset.io/assets/51664/produtos/960/g_regata-feminina-branca-inktexx_-_para_sublima__o.png"
+    },
+
+    {
+        "id":7,
+        "nome":"Camiseta",
+        "descricao": "Camiseta feminina",
+        "preco": 38.9,
+        "quantidade":10,
+        "img":""
+    },
+
+    {
+        "id":8,
+        "nome":"Calça leg",
+        "descricao": "Feminino",
+        "preco": 90.0,
+        "quantidade":30,
+        "img":""
+    },
+
+    {
+        "id":9,
+        "nome":"Calça jeans",
+        "descricao": "Feminino",
+        "preco": 99.9,
+        "quantidade":40,
+        "img":"https://www.revanche.com.br/media/catalog/product/cache/8e5872966dd88cc0e998d2d2c4eec43a/c/a/cal_a-jeans-fit-atacado-feminina-revanche-canutama1175001-_2_.jpg"
+    },
+
+    {
+        "id":10,
+        "nome":"Calça jeans",
+        "descricao": "Masculina",
+        "preco": 94.9,
+        "quantidade":35,
+        "img":"https://dzg5mdpaq0k37.cloudfront.net/Custom/Content/Products/78/35/7835_calca-jeans-masculina-82239_m3_638584452472496266.webp"
+    }
+]
